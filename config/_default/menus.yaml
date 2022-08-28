@@ -16,7 +16,7 @@ main:
   - name: Archivements
     url: '#accomplishments'
     weight: 40
-  - name: Selected Publications
+  - name: Publications
     url: '#publications'
     weight: 50
   - name: Contact

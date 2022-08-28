@@ -24,7 +24,7 @@ feature:
     icon: network-wired
     icon_pack: fas
     name: High Performance Computing
-  - description: 80%
+  - description: 70%
     icon: brain
     icon_pack: fas
     name: Machine Learning
@@ -40,7 +40,7 @@ feature:
     icon: js
     icon_pack: fab
     name: JS project
-  - description: 80%
+  - description: 100%
     icon: chess-board
     icon_pack: fas
     name: FPGA
