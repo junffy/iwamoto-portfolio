@@ -28,7 +28,7 @@ content:
   email: abc22921@gmail.com
   address:
     city: Nagoya
-    region: Aichi
+    region: Japan
     country: Japan
     country_code: JP
 
