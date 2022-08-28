@@ -41,9 +41,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: facebook
     icon_pack: fab
-    link: https://twitter.com/xxx
+    link: https://www.facebook.com/jun.iwamoto.junffy
   # - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   #  icon_pack: fas
   #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
