@@ -26,10 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.Eng. in Natural Language Processing
+  - course: M.Eng. in Computer Architecture
     institution: Nara Institute of Science and Technology
     year: 2020
-  - course: B.Eng. in Natural Language Processing
+  - course: B.Eng. in Computer Architecture
     institution: Osaka Prefecture University College of Technology
     year: 2018
 
