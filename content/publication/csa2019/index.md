@@ -12,8 +12,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
+
 
 date: '2019'
 doi: ''
@@ -25,16 +25,14 @@ publishDate: '2019-05-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 'IEEE Proc. 7th Intl on Computer Systems and Architectures'
 publication_short: 
 
-abstract: ''
-
 # Summary. An optional shortened abstract.
-abstruct: ''
+abstruct: 'A paradigm shift toward edge computing infrastructures that prioritize small footprint and scalable/easy-to-estimate performance is increasing. The former improves the yield ratio and the latter eliminates the margin for performance guarantee. Consequently, both of these directions reduce the cost of hardware. In this paper, we propose a chained systolic array that connects small systolic array chips with peer-to-peer AXI interfaces, and evaluate the scalability of several types of topologies such as star, tree and daisy chain with some models implemented on FPGAs connected by aurora links. As a result, we found the star structured 4-chip configuration provides maximum 2.9 × performance of 1-chip configuration, and daisy chain can provide moderate scalability.'
 
 tags: []
 
@@ -46,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/8951617'
 url_code: ''
 url_dataset: ''
 url_poster: ''

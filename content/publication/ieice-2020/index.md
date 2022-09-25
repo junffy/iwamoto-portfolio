@@ -11,8 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
 
 date: '2019'
 doi: ''
@@ -27,10 +26,10 @@ publishDate: '2020-05-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 'IEICE Trans., Vol.E103-D, No.03'
 publication_short: 
 
-abstract: A paradigm shift toward edge computing infrastructures that prioritize small footprint and scalable/easy-to-estimate performance is increasing. In this paper, we propose the following to improve the footprint and the scalability of systolic arrays (1) column multithreading for reducing the number of physical units and maintaining the performance even for back-to-back floating-point accumulations; (2) a cascaded peer-to-peer AXI bus for a scalable multichip structure and an intra-chip parallel local memory bus for low latency; (3) multilevel loop control in any unit for reducing the startup overhead and adaptive operation shifting for efficient reuse of local memories. We designed a systolic array with a single column × 64 row configuration with Verilog HDL, evaluated the frequency and the performance on an FPGA attached to a ZYNQ system as an AXI slave device, and evaluated the area with a TSMC 28nm library and memory generator and identified the following (1) the execution speed of a matrix multiplication/a convolution operation/a light-field depth extraction, whose size larger than the capacity of the local memory, is 6.3× / 9.2× / 6.6× compared with a similar systolic array (EMAX); (2) the estimated speed with a 4-chip configuration is 19.6× / 16.0× / 8.5×; (3) the size of a single-chip is 8.4 mm2 (0.31× of EMAX) and the basic performance per area is 2.4×.
+abstract: 'A paradigm shift toward edge computing infrastructures that prioritize small footprint and scalable/easy-to-estimate performance is increasing. In this paper, we propose the following to improve the footprint and the scalability of systolic arrays (1) column multithreading for reducing the number of physical units and maintaining the performance even for back-to-back floating-point accumulations; (2) a cascaded peer-to-peer AXI bus for a scalable multichip structure and an intra-chip parallel local memory bus for low latency; (3) multilevel loop control in any unit for reducing the startup overhead and adaptive operation shifting for efficient reuse of local memories. We designed a systolic array with a single column × 64 row configuration with Verilog HDL, evaluated the frequency and the performance on an FPGA attached to a ZYNQ system as an AXI slave device, and evaluated the area with a TSMC 28nm library and memory generator and identified the following (1) the execution speed of a matrix multiplication/a convolution operation/a light-field depth extraction, whose size larger than the capacity of the local memory, is 6.3× / 9.2× / 6.6× compared with a similar systolic array (EMAX); (2) the estimated speed with a 4-chip configuration is 19.6× / 16.0× / 8.5×; (3) the size of a single-chip is 8.4 mm2 (0.31× of EMAX) and the basic performance per area is 2.4×.'
 
 # Summary. An optional shortened abstract.
 abstruct: ''

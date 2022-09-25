@@ -1,34 +1,41 @@
 ---
-title: '並列化によるCIP法の音波伝搬解析の高速化'
+title: 'NAVIGATION DEVICE, NAVIGATION SYSTEM, NAVIGATION METHOD, AND STORAGE MEDIUM STORING NAVIGATION PROGRAM'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Kazumi Yamada
+  - Hiroshi Hattori
   - admin
-  - Kisyoshi Hayakawa
+  - Ryo Endo
+  - Masatoshi Ishino
 
 # Author notes (optional)
 author_notes:
-  - 
+  - equal contribution
+  - equal contribution
+  - equal contribution
+  - equal contribution
+  - equal contribution
 
-date: '2018'
+date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-06-01T00:00:00Z'
+publishDate: '2021-12-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
-publication: '電気関係学会関西連合大会'
+publication: 'Patent Application No.2021-171008'
 publication_short: 
 
-abstract: ''
+abstract:  ""
 
 # Summary. An optional shortened abstract.
 abstruct: ''
@@ -74,6 +81,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
-
-

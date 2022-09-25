@@ -10,8 +10,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
 
 date: '2018'
 doi: ''
@@ -26,7 +25,7 @@ publishDate: '2018-08-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: 'Design Gaia 2018 -New Field of VLSI Design-'
 publication_short: 
 
 abstract: ''
@@ -75,6 +74,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
-
-

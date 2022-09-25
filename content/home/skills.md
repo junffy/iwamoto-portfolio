@@ -7,7 +7,7 @@ widget: featurette
 headless: false
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title: Skills
 subtitle:
@@ -31,15 +31,15 @@ feature:
   - description: 100%
     icon: c
     icon_pack: fas
-    name: C and C++ project
+    name: C and C++
   - description: 80%
     icon: python
     icon_pack: fab
-    name: Python project
+    name: Python
   - description: 80%
     icon: js
     icon_pack: fab
-    name: JS project
+    name: JS
   - description: 100%
     icon: chess-board
     icon_pack: fas
@@ -47,11 +47,11 @@ feature:
   - description: 60%
     icon: apple
     icon_pack: fab
-    name: IOS application develop
+    name: IOS application
   - description: 50%
     icon: android
     icon_pack: fab
-    name: Android application develop
+    name: Android application
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

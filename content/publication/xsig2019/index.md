@@ -1,22 +1,24 @@
 ---
-title: '並列化によるCIP法の音波伝搬解析の高速化'
+title: 'CGRA Cascading for Narrow Memory Bandwidth and Low Cost'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Kisyoshi Hayakawa
+  - Yuma Kikutani
+  - Renyuan Zhang
+  - Yasuhiko Nakashima
 
 # Author notes (optional)
 author_notes:
   - 
 
-date: '2018'
+date: '2019'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-06-01T00:00:00Z'
+publishDate: '2019-12-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,10 +27,13 @@ publishDate: '2017-06-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '電気関係学会関西連合大会'
+publication: 'xSIG 2019: The 3rd. cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming'
 publication_short: 
 
-abstract: ''
+abstract:  "
+<span style='color:red'>**Outstanding Originality Award**</span><br>
+CGRA is a two-dimensional array of processing units, like an adders and multipliers connection by a mesh-like interconnect. The computation has to be laid out in space and time, and the data explicitly routed through the interconnection in the application code.
+"
 
 # Summary. An optional shortened abstract.
 abstruct: ''
@@ -74,6 +79,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
-
-

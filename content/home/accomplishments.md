@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 80
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Achievements'
@@ -29,7 +29,7 @@ item:
     description: ''
     organization: 学生ビジネスプランコンテスト2020
     organization_url: 'http://www.gakusei-sc.or.jp/news/000178.html'
-    title: 最優秀賞
+    title: 1st prize
     url: ''
   - certificate_url: ''
     date_end: '2020-12-01'

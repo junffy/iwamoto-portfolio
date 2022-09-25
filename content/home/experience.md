@@ -25,7 +25,7 @@ experience:
   - title: Software Developer
     company: Toyota Motor Corporation
     company_url: ''
-    company_logo: ''
+    company_logo: 'toyota'
     location: Nagoya and Tokyo, Japan
     date_start: '2020-04-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Research Assistant
     company: Nara Institute of Science and Technology
     company_url: ''
-    company_logo: ''
+    company_logo: 'naist'
     location: Nara, Japan
     date_start: '2019-04-01'
     date_end: '2020-03-31'
@@ -43,7 +43,7 @@ experience:
   - title: Internship
     company: Sony
     company_url: ''
-    company_logo: ''
+    company_logo: 'sony'
     location: Tokyo, Japan
     date_start: '2019-12-01'
     date_end: '2019-12-31'
@@ -52,7 +52,7 @@ experience:
   - title: M.Eng. Student
     company: Nara Institute of Science and Technology
     company_url: ''
-    company_logo: ''
+    company_logo: 'naist'
     location: Nara, Japan
     date_start: '2018-04-01'
     date_end: '2020-03-31'
@@ -62,7 +62,7 @@ experience:
   - title: Internship
     company: Nara Institute
     company_url: ''
-    company_logo: ''
+    company_logo: 'naist'
     location: Nara, Japan
     date_start: '2017-08-01'
     date_end: '2017-08-31'
@@ -81,7 +81,7 @@ experience:
   - title: Internship
     company: Panasonic
     company_url: ''
-    company_logo: ''
+    company_logo: 'panasonic'
     location: Osaka, Japan
     date_start: '2014-08-18'
     date_end: '2014-08-31'
