@@ -16,7 +16,7 @@ main:
   - name: Skills
     url: "#skills"
     weight: 40
-  - name: Archivements
+  - name: Achievements
     url: "#accomplishments"
     weight: 50
   - name: Contact
