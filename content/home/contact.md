@@ -18,10 +18,10 @@ content:
 
   # Contact details (edit or remove options as required)
   contact_links:
-  email: abc22921@gmail.com
+  email: junffy73@gmail.com 
   address:
-    city: 18th Floor, Nihonbashi Muromachi Mitsui Tower, 3-2-1 Nihonbashi Muromachi, Chuo-ku
-    region: Tokyo
+    city: Toyota city
+    region: Nagoya city
     country: Japan
     country_code: JP
 

@@ -52,6 +52,10 @@ feature:
     icon: android
     icon_pack: fab
     name: Android application
+  - description: 80%
+    icon: github-alt
+    icon_pack: fab
+    name: CI/CD
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

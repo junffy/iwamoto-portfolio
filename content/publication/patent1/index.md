@@ -19,7 +19,7 @@ author_notes:
   - equal contribution
   - equal contribution
 
-date: '2022'
+date: '2021'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230119425'
 url_code: ''
 url_dataset: ''
 url_poster: ''
