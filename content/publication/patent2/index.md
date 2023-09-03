@@ -1,5 +1,5 @@
 ---
-title: 'INFOMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, STORAGE MEDIUM ON WHICH AN INFORMATION AN INFORMATION PROCESSING PROCESSING PROGRAM IS STORED, AND VEHICLE'
+title: 'INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, STORAGE MEDIUM ON WHICH AN INFORMATION AN INFORMATION PROCESSING PROCESSING PROGRAM IS STORED, AND VEHICLE'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,13 +24,12 @@ publishDate: '2022-08-01T00:00:00Z'
 publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Patent Application No.2022-005361'
-publication_short: 
+publication: 'Patent Appl. No.: 18/153,443'
+publication_short:
 
-abstract:  ""
+abstract:  "An information processing device receives a request signal, read out a user class or a storage region class the request signal requests, and generates an object corresponding to the read-out class, wherein each user class is a class relating to users and each storage region class is a class relating to storage regions utilized by the users, based on the generated object and the request signal. The information processing device executes a method corresponding to the object, and thereby acquire data corresponding to the request signal. The information processing device outputs the acquired data."
 
 # Summary. An optional shortened abstract.
-abstruct: ''
 
 tags: []
 
@@ -42,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230229678'
 url_code: ''
 url_dataset: ''
 url_poster: ''

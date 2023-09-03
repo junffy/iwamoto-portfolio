@@ -20,7 +20,7 @@ author_notes:
   - equal contribution
 
 date: '2021'
-doi: 'A navigation device includes a processor.  The processor collects captured images that have been captured by an imaging device mounted at a vehicle, sets a destination, and determines a route to the destination based on the captured images that have been collected.'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-10-01T00:00:00Z'
@@ -32,13 +32,10 @@ publishDate: '2021-10-01T00:00:00Z'
 publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Patent Application No.2021-171008'
+publication: 'Patent Appl. NO: 18/147056'
 publication_short:
 
-abstract:  "The con"
-
-# Summary. An optional shortened abstract.
-abstruct: ''
+abstract: 'A navigation device includes a processor.  The processor collects captured images that have been captured by an imaging device mounted at a vehicle, sets a destination, and determines a route to the destination based on the captured images that have been collected.'
 
 tags: []
 
@@ -61,8 +58,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: 
-  caption: 
+image:
+  caption:
   focal_point: ''
   preview_only: false
 
@@ -79,5 +76,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: 
+slides:
 ---

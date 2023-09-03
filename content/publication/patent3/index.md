@@ -24,15 +24,11 @@ publishDate: '2022-08-01T00:00:00Z'
 publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
-publication: 'Patent Application No.2022-005930'
+publication: 'Patent Appl.: No. 18/147,056'
 publication_short: 
 
-abstract:  ""
+abstract:  "The control device, which operates due to a processor executing an object-oriented program, backs-up, to a storing section, respective first combinations of elements of a first object in which class structure relating to an application program is defined, and respective second combinations of elements of a second object in which class structure relating to a storage region used by an application program is defined. In a case in which generation of an object is necessary when the program is started, for the first object, the control device reads-out the respective first combinations from the storing section and generates the fist object, and, for the second object, the control device reads-out the respective second combinations from the storing section and generates the second object."
 
-# Summary. An optional shortened abstract.
-abstruct: ''
-
-tags: []
 
 # Display this page in the Featured widget?
 featured: true
@@ -42,7 +38,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230227049'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,8 +49,8 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image: 
-  caption: 
+image:
+  caption:
   focal_point: ''
   preview_only: false
 
