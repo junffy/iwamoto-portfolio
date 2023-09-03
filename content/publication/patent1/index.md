@@ -20,10 +20,10 @@ author_notes:
   - equal contribution
 
 date: '2021'
-doi: ''
+doi: 'A navigation device includes a processor.  The processor collects captured images that have been captured by an imaging device mounted at a vehicle, sets a destination, and determines a route to the destination based on the captured images that have been collected.'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-12-01T00:00:00Z'
+publishDate: '2021-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,9 +33,9 @@ publication_types: ['8']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Patent Application No.2021-171008'
-publication_short: 
+publication_short:
 
-abstract:  ""
+abstract:  "The con"
 
 # Summary. An optional shortened abstract.
 abstruct: ''
