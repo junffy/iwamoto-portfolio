@@ -22,6 +22,7 @@ interests:
   - High Performance Computing
   - Machine Learning
   - Image Processing
+  - Mobile Application Development
 
 # Education to show in About widget
 education:
@@ -70,5 +71,5 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ---
-Jun Iwamoto is a software developer. His interests include computer architecture, high-performance computing, machine learning, and image processing.
+Jun Iwamoto is a software developer. His interests include computer architecture, high-performance computing, machine learning, mobile application development, and image processing.
 

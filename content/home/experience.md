@@ -72,7 +72,7 @@ experience:
   - title: B.Eng. Student
     company: Osaka Prefecture University College of Technology
     company_url: ''
-    company_logo: ''
+    company_logo: 'kosen'
     location: Osaka, Japan
     date_start: '2016-04-01'
     date_end: '2018-03-31'

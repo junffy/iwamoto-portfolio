@@ -4,7 +4,7 @@
 widget: featurette
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 50
@@ -16,43 +16,47 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
+  - description:
     icon: desktop
     icon_pack: fas
     name: Computer Architecture
-  - description: 100%
+  - description:
     icon: network-wired
     icon_pack: fas
     name: High Performance Computing
-  - description: 70%
+  - description:
     icon: brain
     icon_pack: fas
     name: Machine Learning
-  - description: 100%
+  - description:
     icon: c
     icon_pack: fas
     name: C and C++
-  - description: 80%
+  - description:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 80%
+  - description:
     icon: js
     icon_pack: fab
     name: JS
-  - description: 100%
+  - description:
     icon: chess-board
     icon_pack: fas
     name: FPGA
-  - description: 60%
+  - description:
     icon: apple
     icon_pack: fab
     name: IOS application
-  - description: 50%
+  - description:
     icon: android
     icon_pack: fab
     name: Android application
-  - description: 80%
+  - description:
+    icon: github-alt
+    icon_pack: fab
+    name: CI/CD
+  - description:
     icon: github-alt
     icon_pack: fab
     name: CI/CD

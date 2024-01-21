@@ -20,8 +20,8 @@ content:
   contact_links:
   email: junffy73@gmail.com 
   address:
-    city: Toyota city
-    region: Nagoya city
+    city: Otemachi Bldg. 6F, 1-6-1 Otemachi, Chiyoda-ku
+    region: Tokyo
     country: Japan
     country_code: JP
 
